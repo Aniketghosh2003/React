@@ -1,0 +1,29 @@
+.card {
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  max-width: 300px;
+  display: inline-block;
+}
+
+.card .card-img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 10%;
+  margin-bottom: 10px;
+}
+
+.card .card_title {
+    font-size: x-large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card .card_text{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 500;
+}
