@@ -1,0 +1,70 @@
+/* usesate()
+.counter-container{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.counter-paragraph{
+   font-size: 3em;
+   margin-bottom: 30px;
+}
+
+.counter-decrement{
+  padding: 7px;
+  margin: 10px;
+  background-color: aqua;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.counter-increment{
+  padding: 7px;
+  margin: 10px;
+  background-color: aqua;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.counter-reset{
+  padding: 7px;
+  margin: 10px;
+  background-color: aqua;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+} */
+
+
+/* .color-generator{
+  font-family: 'Times New Roman', Times, serif;
+  margin:10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.color-generator h2{
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.color-display{
+  height: 350px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.color-display p{
+  font-size: 1.3em;
+  color: aliceblue;
+} */
